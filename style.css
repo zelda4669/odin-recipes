@@ -1,0 +1,13 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.description {
+    background-color: purple;
+    color: white;
+}
